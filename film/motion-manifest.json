@@ -1,0 +1,26 @@
+{
+  "title": "Disco & Funk Chords",
+  "study": "df01",
+  "bpm": 112,
+  "source_audio": "preview/disco-funk-chords-simple-synth-preview.mp3",
+  "source_audio_sha256": "eb7cb2a7d3470ea38e9ca68899600090b72b6543e93ab81266b4301413a774a1",
+  "source_midi": "midi/df01-mirror-steps/df01-mirror-steps-combined.mid",
+  "source_midi_sha256": "59a229db5a1bf2198e935f2df972c29b85c37e815aa888fa303011416a5ff4a2",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "f7c1cb71cefcc7888b72d67bbb86d3e9fc667978513c54d59b31d475b2a4c31a",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "634daea63897e3301ab780b26befff3824688a62e4d8738785b417b3d29c4829",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "b930c608e51ae0efabc4989e7f924633b834234f371e95f7ff6f5a97eb0de7e5",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
