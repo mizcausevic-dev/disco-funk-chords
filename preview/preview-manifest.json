@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/disco-funk-chords-simple-synth-preview.mp3",
+  "preview_sha256": "eb7cb2a7d3470ea38e9ca68899600090b72b6543e93ab81266b4301413a774a1",
+  "source_midi_path": "midi/df01-mirror-steps/df01-mirror-steps-combined.mid",
+  "source_midi_sha256": "59a229db5a1bf2198e935f2df972c29b85c37e815aa888fa303011416a5ff4a2",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "df01",
+    "start_seconds": 0,
+    "end_seconds": 68.571
+  },
+  "measurement": {
+    "sample_peak": 0.112117,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

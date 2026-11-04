@@ -1,0 +1,15 @@
+{
+  "source_audio": "preview/disco-funk-chords-simple-synth-preview.mp3",
+  "source_audio_sha256": "eb7cb2a7d3470ea38e9ca68899600090b72b6543e93ab81266b4301413a774a1",
+  "excerpt_start_seconds": 0,
+  "excerpt_duration_seconds": 18,
+  "video": "film/preview.mp4",
+  "video_sha256": "e375a94b48b203d6c5fcb2d7256331faea8bf1f5ba0d782a58d29b5b3a3e7c3b",
+  "duration_seconds": 18.0,
+  "video_codec": "H.264",
+  "audio_codec": "AAC",
+  "caption": "film/preview.vtt",
+  "poster": "film/poster.jpg",
+  "disclosure": "preview, not master",
+  "note": "A static illustrated poster and audio excerpt; no recording-session claim."
+}

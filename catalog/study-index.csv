@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+df01,Mirror Steps,pack-local equal-tempered pitch collection,C,112,4/4,480,32,61440,midi/df01-mirror-steps/df01-mirror-steps-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+df02,Golden Pocket,pack-local equal-tempered pitch collection,D#,112,4/4,480,32,61440,midi/df02-golden-pocket/df02-golden-pocket-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+df03,Late Floor,pack-local equal-tempered pitch collection,F#,112,4/4,480,32,61440,midi/df03-late-floor/df03-late-floor-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+df04,Bright Reply,pack-local equal-tempered pitch collection,C#,112,4/4,480,32,61440,midi/df04-bright-reply/df04-bright-reply-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
