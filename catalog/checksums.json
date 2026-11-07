@@ -193,8 +193,8 @@
     },
     {
       "path": "downloads/disco-funk-chords-midi.zip",
-      "bytes": 32195,
-      "sha256": "20a7b35a2e040826133df86a269df29e39dc95d6085003aedfd8061b8e0bd0ca"
+      "bytes": 33182,
+      "sha256": "7e693ee1370d3f10a383378c00ff365ef12155357462cc66b4156234592f70c8"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -243,8 +243,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9741,
-      "sha256": "c8e6e479b9911e7159b60c3aac8ce4850da6889d9c12b820eec5b1b280bf6a3c"
+      "bytes": 9931,
+      "sha256": "ccc81acc8dee241df7b5b58f35719b092624712e6bd1814fbc68c81075724a44"
     },
     {
       "path": "midi/df01-mirror-steps/chord_pulse.mid",
@@ -387,6 +387,11 @@
       "sha256": "9882dc3bed68f659874188026b7c8421db83681608fbef2a7f2f75407503aab2"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "MOTION-PREVIEW.md",
       "bytes": 789,
       "sha256": "27d520ec760e1745131bd7435f06f9680fa92c2479efdc2398528b7cde8300cb"
@@ -403,8 +408,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4035,
-      "sha256": "f88f609fc3d4abe652d71019d4f9ff6f6c919c77982ebd664cec5a068cdede09"
+      "bytes": 4150,
+      "sha256": "ae24aed64e0f174500c86671385427efc070240d4e195109c71e9d578a67bdd7"
     },
     {
       "path": "REVISION.md",
